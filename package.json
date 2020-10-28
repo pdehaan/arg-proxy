@@ -1,0 +1,25 @@
+{
+  "name": "arg-proxy",
+  "description": "arg module, but with proxy support.",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/arg-proxy/issues"
+  },
+  "dependencies": {
+    "arg": "^4.1.3",
+    "param-case": "^3.0.3"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/arg-proxy#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "lib.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/arg-proxy.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
